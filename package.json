@@ -4,6 +4,12 @@
   "description": "A cyberpunk-inspired VSCode theme!",
   "version": "1.0.0",
   "publisher": "avrumnoor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avrumnoor/Verner"
+  },
+  "license": "MIT",
+  "icon": "verner_logo.png",
   "keywords": [
     "verner",
     "cyberpunk",
