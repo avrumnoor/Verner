@@ -1,0 +1,30 @@
+{
+  "name": "verner",
+  "displayName": "Verner",
+  "description": "A cyberpunk-inspired VSCode theme!",
+  "version": "1.0.0",
+  "publisher": "avrumnoor",
+  "keywords": [
+    "verner",
+    "cyberpunk",
+    "vscode",
+    "theme",
+    "avrumnoor",
+    "avrum"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Verner",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Verner-color-theme.json"
+      }
+    ]
+  }
+}
